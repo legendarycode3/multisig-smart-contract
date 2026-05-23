@@ -33,8 +33,8 @@ Here is why MultiSig smart contracts are critical to the Web3 ecosystem: </br>
 1. ****Eliminates Single Points of Failure:****
 2. ****Prevents Unauthorized Drains & Theft:****
 3. ****Enables Shared Ownership and DAOs:****
-4. ****Mitigates Human Error:****
-5. ****Provides Trustless Escrow & Dispute Resolution:****  MultiSigs are commonly configured with an \(M\)-of-\(N\) scheme 
+4. ****Mitigates Human Error:**** They act as a digital safety net.
+5. ****Provides Trustless Escrow & Dispute Resolution:****  MultiSigs are commonly configured with an M-of-N scheme 
 
 
 ## Foundry
