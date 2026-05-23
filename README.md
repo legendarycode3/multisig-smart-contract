@@ -5,6 +5,7 @@
 ## 📌 Features
 * ****Multi-Owner Wallet Support:**** Supports multiple wallet owners. Tracks authorized signers and prevents unauthorized access.
 * ****Ether Deposit Support:**** Contract can receive ETH directly. Emits deposit events and Tracks updated balance.
+* ****Duplicate Owner Prevention:****
 
 ## 🧠 Key Concepts Applied
 
