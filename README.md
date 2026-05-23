@@ -26,7 +26,8 @@
 * ****[Foundry(forge, cast, anvil)](https://www.getfoundry.sh/)**** - Development framework  and testing suite.
 * ****[Visual Studio Code](https://code.visualstudio.com/)**** - Install this IDE only if you are using foundry development kit rather than "Remix IDE" which is for quick prototying.
 
-## Why This Matters (Inventory Management Smart Contract)
+## Why This Matters (Multi Signature Wallet Smart Contract)
+Multi-signature (MultiSig) smart contracts matter in Web3 because they require two or
 
 ## Foundry
 
