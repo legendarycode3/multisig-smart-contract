@@ -30,7 +30,7 @@
 Multi-signature (MultiSig) smart contracts matter in Web3 because they require two or more cryptographic keys to authorize a single blockchain transaction. Unlike standard single-key wallets (EOAs),  they distribute control and eliminate  single points of failure, making them the industry standard for securing large treasuries and institutional assets. </br>
 
 Here is why MultiSig smart contracts are critical to the Web3 ecosystem: </br>
-1. ****Eliminates Single Points of Failure:****  In a standard wallet, if your private key is lost or
+1. ****Eliminates Single Points of Failure:****  In a standard wallet, if your private key is lost or compromised by a hacker, 
 2. ****Prevents Unauthorized Drains & Theft:****
 3. ****Enables Shared Ownership and DAOs:****  Web3 requires collaborative decision-making. MultiSigs enforce collective control, allowing teams, businesses, or Decentralized Autonomous Organizations (DAOs)  to manage shared funds transparently.
 4. ****Mitigates Human Error:**** They act as a digital safety net. A MultiSig contract can be set up so that one person initiates a transaction,  but the majority of the team or board must sign off on it. This prevents accidental transfers or rogue employee actions.
