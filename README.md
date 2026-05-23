@@ -1,4 +1,4 @@
-# Multi Signature Smart Contract
+# Multi Signature Wallet Smart Contract
 
 ## Project Overview
 
