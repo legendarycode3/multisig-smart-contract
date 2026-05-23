@@ -24,7 +24,7 @@
 * ****Mappings:**** Mappings provide efficient storage and lookup for: `owner validation` and `confirmation tracking`.
 * ****Dynamic Arrays:**** Arrays are used to store: `wallet owners`, `submitted transactions`.
 * ****Constructor:**** The constructor initializes owners and required confirmation thresholds during deployment.
-* ****Event Logging:****
+* ****Event Logging:**** Events emit blockchain logs for:
 
 ## 🌐Technology Stack  (Technologies Used)
 * ****[Solidity](https://www.soliditylang.org/)**** - The programming language for writing the Smart contracts.
