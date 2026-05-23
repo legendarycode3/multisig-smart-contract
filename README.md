@@ -12,7 +12,7 @@
 * ****Owner Access Control Modifier:**** Sensitive functions are protected with the `onlyOwner` modifier.
 * ****Custom Error Usage:**** Uses Solidity custom errors instead of string reverts for lower gas costs.
 * ****Transaction Submission Functionality:**** Owners can submit transactions containing: `recipient address`, `ETH amount`, `calldata payload`
-* ****Transaction Struct Storage:**** Every transaction is stored permanently
+* ****Transaction Struct Storage:**** Every transaction is stored permanently in the blockchain using
 
 ## 🧠 Key Concepts Applied
 
