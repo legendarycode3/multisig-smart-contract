@@ -10,6 +10,7 @@
 * ****Ether Deposit Support:**** Contract can receive ETH directly. Emits deposit events and Tracks updated balance.
 * ****Duplicate Owner Prevention:**** Ensures the same owner address cannot be added more than once.
 * ****Owner Access Control Modifier:**** Sensitive functions are protected with the `onlyOwner` modifier.
+* ****Custom Error Usage:****
 
 ## 🧠 Key Concepts Applied
 
