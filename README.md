@@ -21,7 +21,7 @@
 ## 🧠 Key Concepts Applied
 * ****Structs:**** The `Transaction` struct organizes transaction data into a reusable and efficient storage model.
 * ****Enums:**** The `TxState` enum is used for transaction lifecycle management , which are: `Pending`, `Approved`, `Executed`, `Revoked`.
-* ****Mappings:**** Mappings provide efficient storage and lookup for: `owner validation`
+* ****Mappings:**** Mappings provide efficient storage and lookup for: `owner validation` and `owner validation`
 
 ## 🌐Technology Stack  (Technologies Used)
 * ****[Solidity](https://www.soliditylang.org/)**** - The programming language for writing the Smart contracts.
