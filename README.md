@@ -16,7 +16,7 @@
 * ****Transaction Struct Storage:**** Every transaction is stored permanently in the blockchain using a structured `Transaction` object.
 * ****Confirmation Tracking Per Owner:**** Uses nested mappings to track whether a specific owner confirmed a particular transaction.
 * ****On-Chain Transaction History:**** All submitted transactions remain stored on-chain for transparency and auditing.
-* ****Transaction Count Tracking:**** Includes a helper function to return the total number of submitted transactions.
+* ****Transaction Count Tracking:**** Includes a helper function to return the total number of submitted transactions. 
 
 ## 🧠 Key Concepts Applied
 
@@ -38,7 +38,7 @@ Here is why MultiSig smart contracts are critical to the Web3 ecosystem: </br>
 6. ****Prevents Accidental Fund Transfers:**** Transactions require review before execution, reducing mistakes.
 7. ****Improves Security:**** Multiple approvals are required before transactions execute, making unauthorized transfers much harder.
 8. ****Builds Trust Among Team Members:**** No single individual has complete control over organizational assets.
-9. ****Represents Core Web3 Principles:**** MultiSig wallets embody decentralization, transparency,
+9. ****Represents Core Web3 Principles:**** MultiSig wallets embody decentralization, transparency, shared ownership, and trust minimization
 
 
 ## Foundry
