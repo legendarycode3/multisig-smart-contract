@@ -9,7 +9,7 @@
 * ****Mandatory Owner Requirement:**** The contract cannot be deployed without at least two or more owner.
 * ****Ether Deposit Support:**** Contract can receive ETH directly. Emits deposit events and Tracks updated balance.
 * ****Duplicate Owner Prevention:**** Ensures the same owner address cannot be added more than once.
-* ****Owner Access:****
+* ****Owner Access:**** Sensitive functions
 
 ## 🧠 Key Concepts Applied
 
