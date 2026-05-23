@@ -7,6 +7,7 @@
 ## 🧠 Key Concepts Applied
 
 ## 🌐Technology Stack  (Technologies Used)
+* ****[Solidity](https://www.soliditylang.org/)**** 
 
 ## Foundry
 
