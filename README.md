@@ -6,7 +6,7 @@
 
 ## 🧠 Key Concepts Applied
 
-## 🌐Technology Stack
+## 🌐Technology Stack  (Technologies Used)
 
 ## Foundry
 
