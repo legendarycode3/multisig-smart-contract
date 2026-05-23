@@ -6,6 +6,7 @@
 * ****Multi-Owner Wallet Support:**** Supports multiple wallet owners. Tracks authorized signers and prevents unauthorized access.
 * ****Custom Confirmation Threshold:**** During deployment, the contract allows setting the minimum number of confirmations required before executing a transaction.
 * ****Owner Validation on Deployment:**** Prevents deployment with invalid owner addresses such as the zero address.
+* ****Mandatory Owner:****
 * ****Ether Deposit Support:**** Contract can receive ETH directly. Emits deposit events and Tracks updated balance.
 * ****Duplicate Owner Prevention:**** Ensures the same owner address cannot be added more than once.
 
