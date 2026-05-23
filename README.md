@@ -3,7 +3,7 @@
 ## Project Overview
 
 ## 📌 Features
-* ****Multi-Owner Wallet Support:**** Supports multiple wallet owners. Tracks authorized signers
+* ****Multi-Owner Wallet Support:**** Supports multiple wallet owners. Tracks authorized signers and prevents unauthorized access
 
 ## 🧠 Key Concepts Applied
 
