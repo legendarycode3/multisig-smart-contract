@@ -37,7 +37,7 @@ Here is why MultiSig smart contracts are critical to the Web3 ecosystem: </br>
 5. ****Provides Trustless Escrow & Dispute Resolution:****  MultiSigs are commonly configured with an M-of-N scheme.
 6. ****Prevents Accidental Fund Transfers:**** Transactions require review before execution, reducing mistakes.
 7. ****Improves Security:**** Multiple approvals are required before transactions execute, making unauthorized transfers much harder.
-8. ****Builds Trust Among Team Members:****
+8. ****Builds Trust Among Team Members:**** No single individual has
 
 
 ## Foundry
