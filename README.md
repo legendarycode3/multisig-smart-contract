@@ -36,7 +36,7 @@ Here is why MultiSig smart contracts are critical to the Web3 ecosystem: </br>
 4. ****Mitigates Human Error:**** They act as a digital safety net. A MultiSig contract can be set up so that one person initiates a transaction,  but the majority of the team or board must sign off on it. This prevents accidental transfers or rogue employee actions.
 5. ****Provides Trustless Escrow & Dispute Resolution:****  MultiSigs are commonly configured with an M-of-N scheme.
 6. ****Prevents Accidental Fund Transfers:**** Transactions require review before execution, reducing mistakes.
-7. ****Improves Security:**** Multiple approvals are required before
+7. ****Improves Security:**** Multiple approvals are required before transactions execute, making
 
 
 ## Foundry
