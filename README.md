@@ -20,6 +20,7 @@
 
 ## 🧠 Key Concepts Applied
 * ****Structs:**** The Transaction struct organizes transaction data into a reusable and efficient storage model.
+* ****Enums:****
 
 ## 🌐Technology Stack  (Technologies Used)
 * ****[Solidity](https://www.soliditylang.org/)**** - The programming language for writing the Smart contracts.
