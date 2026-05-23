@@ -13,7 +13,7 @@
 * ****Custom Error Usage:**** Uses Solidity custom errors instead of string reverts for lower gas costs.
 * ****Transaction Submission Functionality:**** Owners can submit transactions containing: `recipient address`, `ETH amount`, `calldata payload`
 * ****Transaction Struct Storage:**** Every transaction is stored permanently in the blockchain using a structured `Transaction` object.
-* ****Confirmation
+* ****Confirmation Tracking Per Owner
 
 ## 🧠 Key Concepts Applied
 
