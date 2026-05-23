@@ -31,6 +31,7 @@ Multi-signature (MultiSig) smart contracts matter in Web3 because they require t
 
 Here is why MultiSig smart contracts are critical to the Web3 ecosystem: </br>
 1. ****Eliminates Single Points of Failure:****
+2. ****Prevents Unauthorized Drains & Theft::****
 
 ## Foundry
 
