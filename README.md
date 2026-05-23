@@ -22,7 +22,7 @@
 * ****Structs:**** The `Transaction` struct organizes transaction data into a reusable and efficient storage model.
 * ****Enums:**** The `TxState` enum is used for transaction lifecycle management , which are: `Pending`, `Approved`, `Executed`, `Revoked`.
 * ****Mappings:**** Mappings provide efficient storage and lookup for: `owner validation` and `confirmation tracking`.
-* ****Dynamic Arrays:****
+* ****Dynamic Arrays:**** Arrays are used to store:
 
 ## 🌐Technology Stack  (Technologies Used)
 * ****[Solidity](https://www.soliditylang.org/)**** - The programming language for writing the Smart contracts.
