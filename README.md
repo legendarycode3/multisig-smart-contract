@@ -3,7 +3,7 @@
 ## Project Overview
 
 ## 📌 Features
-* ****Multi-Owner:****
+* ****Multi-Owner Wallet Support:****
 
 ## 🧠 Key Concepts Applied
 
