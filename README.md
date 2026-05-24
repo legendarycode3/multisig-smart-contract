@@ -24,7 +24,7 @@ Key security mechanisms implemented include: </br>
 * and the Checks-Effects-Interactions pattern to reduce reentrancy risks.
 
 This project `MultiSignature` demonstrates several advanced Solidity and smart contract engineering concepts such as:
-* multisignature
+* multisignature governance,
 
 
 ## 📌 Features
