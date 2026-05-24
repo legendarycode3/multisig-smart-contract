@@ -28,7 +28,7 @@
 * ****Modifiers:**** For Reusable pre-condition checks. It helped reduced repetition, improved code readability, Centralized validation logic.
 * ****Ether Handling:**** Receiving and storing ETH. Allows direct ETH transfers into the wallet.
 * ****Checks-Effects-Interactions Pattern:**** Security pattern to reduce reentrancy attacks.
-* ****State Variables:****  Variables stored  permanently on-chain.
+* ****State Variables:****  Variables stored  permanently on-chain. To Maintain wallet state
 * ****Storage:**** Used storage keyword , for permanent blockchain reference.
 
 ## 🌐Technology Stack  (Technologies Used)
