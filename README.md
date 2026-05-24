@@ -30,7 +30,7 @@
 * ****Checks-Effects-Interactions Pattern:**** Security pattern to reduce reentrancy attacks.
 * ****State Variables:****  Variables stored  permanently on-chain. Used to Maintain wallet state and Persist transaction records.
 * ****Storage:**** Used storage keyword , for permanent blockchain reference.and gas usage.
-* ****Function Visibility:**** Used Visibilities like:
+* ****Function Visibility:**** Used Visibilities like: `public` , `external`.
 
 ## 🌐Technology Stack  (Technologies Used)
 * ****[Solidity](https://www.soliditylang.org/)**** - The programming language for writing the Smart contracts.
