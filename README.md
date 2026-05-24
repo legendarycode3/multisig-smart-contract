@@ -9,6 +9,8 @@ The contract allows authorized owners to:
 * revoke confirmations before execution,
 * and execute transactions once the required approval threshold is reached.
 
+The wallet also supports: </br>
+
 
 ## 📌 Features
 * ****Multi-Owner Wallet Support:**** Supports multiple wallet owners. Tracks authorized signers and prevents unauthorized access.
