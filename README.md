@@ -19,6 +19,7 @@ Key security mechanisms implemented include: </br>
 * owner-based access control,
 * duplicate confirmation prevention,
 * transaction existence validation,
+* quorum-based
 
 
 ## 📌 Features
