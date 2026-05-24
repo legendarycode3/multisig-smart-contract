@@ -30,7 +30,7 @@ This project `MultiSignature` demonstrates several advanced Solidity and smart c
 * state machines,
 * custom errors,
 * event-driven architecture,
-* and secure
+* and secure treasury management.
 
 
 ## 📌 Features
