@@ -25,6 +25,7 @@
 * ****Dynamic Arrays:**** Arrays are used to store: `wallet owners`, `submitted transactions`.
 * ****Constructor:**** The constructor initializes owners and required confirmation thresholds during deployment.
 * ****Event Logging:**** Events emit blockchain logs for: `deposits`, `submissions`, `confirmations`, `revocations`, `executions`.
+* ****Modifiers:****
 
 ## 🌐Technology Stack  (Technologies Used)
 * ****[Solidity](https://www.soliditylang.org/)**** - The programming language for writing the Smart contracts.
