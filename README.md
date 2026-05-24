@@ -11,7 +11,7 @@ The contract allows authorized owners to:
 
 The wallet also supports: </br>
 * Ether deposits,
-* arbitrary
+* arbitrary smart contract calls
 
 
 ## 📌 Features
