@@ -1,7 +1,7 @@
 # Multi Signature Wallet Smart Contract
 
 ## Project Overview
-The `MultiSignature` contract is a secure Ethereum smart contract wallet designed to manage and protect digital assets through a multi-owner approval system. Instead of relying on a single private key or account to authorize transactions, the wallet requires
+The `MultiSignature` contract is a secure Ethereum smart contract wallet designed to manage and protect digital assets through a multi-owner approval system. Instead of relying on a single private key or account to authorize transactions, the wallet requires multiple independent
 
 ## 📌 Features
 * ****Multi-Owner Wallet Support:**** Supports multiple wallet owners. Tracks authorized signers and prevents unauthorized access.
