@@ -31,7 +31,7 @@
 * ****State Variables:****  Variables stored  permanently on-chain. Used to Maintain wallet state and Persist transaction records.
 * ****Storage:**** Used storage keyword , for permanent blockchain reference.and gas usage.
 * ****Function Visibility:**** Used Visibilities like: `public` , `external`. To Controls accessibility and gas usage.
-* ****Dynamic Data Type (bytes):**** Arbitrary binary calldata container.
+* ****Dynamic Data Type (bytes):**** Arbitrary binary calldata container. This allows function calls,
 
 ## 🌐Technology Stack  (Technologies Used)
 * ****[Solidity](https://www.soliditylang.org/)**** - The programming language for writing the Smart contracts.
