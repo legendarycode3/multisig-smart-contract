@@ -28,6 +28,7 @@
 * ****Modifiers:**** For Reusable pre-condition checks. It helped reduced repetition, improved code readability, Centralized validation logic.
 * ****Ether Handling:**** Receiving and storing ETH. Allows direct ETH transfers into the wallet.
 * ****Checks-Effects-Interactions Pattern:**** Security pattern to reduce reentrancy attacks.
+* ****State Variables:****
 
 ## 🌐Technology Stack  (Technologies Used)
 * ****[Solidity](https://www.soliditylang.org/)**** - The programming language for writing the Smart contracts.
