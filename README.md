@@ -21,7 +21,7 @@
 ## 🧠 Key Concepts Applied
 * ****Structs:**** The `Transaction` struct organizes transaction data into a reusable and efficient storage model.
 * ****Enums:**** The `TxState` enum is used for transaction lifecycle management , which are: `Pending`, `Approved`, `Executed`, `Revoked`.
-* ****Mappings:**** Key-value storageMappings provide efficient storage and lookup for: `owner validation` and `confirmation tracking`.
+* ****Mappings:**** Key-value storage for efficient lookups. Mappings provide efficient storage and lookup for: `owner validation` and `confirmation tracking`.
 * ****Dynamic Arrays:**** Arrays are used to store: `wallet owners`, `submitted transactions`.
 * ****Constructor:**** The constructor initializes owners and required confirmation thresholds during deployment.
 * ****Event Logging:**** Events emit blockchain logs for: `deposits`, `submissions`, `confirmations`, `revocations`, `executions`.
