@@ -18,7 +18,7 @@ The wallet also supports: </br>
 Key security mechanisms implemented include: </br>
 * owner-based access control,
 * duplicate confirmation prevention,
-* transaction
+* transaction existence validation,
 
 
 ## 📌 Features
