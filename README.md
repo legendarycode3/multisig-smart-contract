@@ -7,6 +7,7 @@ The contract allows authorized owners to:
 * submit transaction proposals,
 * confirm pending transactions,
 * revoke confirmations before execution,
+* and execute transactions
 
 
 ## 📌 Features
