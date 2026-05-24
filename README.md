@@ -10,6 +10,7 @@ The contract allows authorized owners to:
 * and execute transactions once the required approval threshold is reached.
 
 The wallet also supports: </br>
+* Ether deposits,
 
 
 ## 📌 Features
