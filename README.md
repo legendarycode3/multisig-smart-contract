@@ -15,6 +15,8 @@ The wallet also supports: </br>
 * transparent event logging,
 * and transaction state tracking using an enum-based lifecycle system.
 
+Key security
+
 
 ## 📌 Features
 * ****Multi-Owner Wallet Support:**** Supports multiple wallet owners. Tracks authorized signers and prevents unauthorized access.
