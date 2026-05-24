@@ -20,6 +20,7 @@ Key security mechanisms implemented include: </br>
 * duplicate confirmation prevention,
 * transaction existence validation,
 * quorum-based execution,
+* custom error
 
 
 ## 📌 Features
