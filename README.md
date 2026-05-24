@@ -16,7 +16,7 @@ The wallet also supports: </br>
 * and transaction state tracking using an enum-based lifecycle system.
 
 Key security mechanisms implemented include: </br>
-* owner-based
+* owner-based access control,
 
 
 ## 📌 Features
