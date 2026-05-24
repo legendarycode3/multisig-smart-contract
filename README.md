@@ -24,7 +24,7 @@
 * ****Mappings:**** Key-value storage for efficient lookups. Mappings provide efficient storage and lookup for: `owner validation` and `confirmation tracking`.
 * ****Dynamic Arrays:**** Arrays are used to store: `wallet owners`, `submitted transactions`.
 * ****Constructor:**** The constructor initializes owners and required confirmation thresholds during deployment.
-* ****Event Logging:**** Events emit blockchain logs for: `deposits`, `submissions`, `confirmations`, `revocations`, `executions`.
+* ****Event Logging:**** Blockchain logs Events emit blockchain logs for: `deposits`, `submissions`, `confirmations`, `revocations`, `executions`.
 * ****Modifiers:**** For Reusable pre-condition checks. It helped reduced repetition, improved code readability, Centralized validation logic.
 
 ## 🌐Technology Stack  (Technologies Used)
