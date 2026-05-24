@@ -15,7 +15,8 @@ The wallet also supports: </br>
 * transparent event logging,
 * and transaction state tracking using an enum-based lifecycle system.
 
-Key security mechanisms implemented include:
+Key security mechanisms implemented include: </br>
+* owner-based
 
 
 ## 📌 Features
