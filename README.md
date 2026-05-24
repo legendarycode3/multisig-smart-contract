@@ -27,6 +27,8 @@ This project `MultiSignature` demonstrates several advanced Solidity and smart c
 * multisignature governance,
 * low-level contract calls,
 * mappings and nested mappings,
+* state machines,
+
 
 
 ## 📌 Features
