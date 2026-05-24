@@ -26,7 +26,7 @@
 * ****Constructor:**** The constructor initializes owners and required confirmation thresholds during deployment.
 * ****Event Logging:**** Blockchain logs for off-chain tracking. Events emit blockchain logs for: `deposits`, `submissions`, `confirmations`, `revocations`, `executions`.
 * ****Modifiers:**** For Reusable pre-condition checks. It helped reduced repetition, improved code readability, Centralized validation logic.
-* ****Ether Handling:**** Receiving and storing ETH. Allows direct ETH
+* ****Ether Handling:**** Receiving and storing ETH. Allows direct ETH transfers into the wallet.
 
 ## 🌐Technology Stack  (Technologies Used)
 * ****[Solidity](https://www.soliditylang.org/)**** - The programming language for writing the Smart contracts.
