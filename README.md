@@ -16,7 +16,8 @@
 * ****Transaction Struct Storage:**** Every transaction is stored permanently in the blockchain using a structured `Transaction` object.
 * ****Confirmation Tracking Per Owner:**** Uses nested mappings to track whether a specific owner confirmed a particular transaction.
 * ****On-Chain Transaction History:**** All submitted transactions remain stored on-chain for transparency and auditing.
-* ****Transaction Count Tracking:**** Includes a helper function to return the total number of submitted transactions. 
+* ****Transaction Count Tracking:**** Includes a helper function to return the total number of submitted transactions.
+* ****Decentralized Governance Logic:****
 
 ## 🧠 Key Concepts Applied
 * ****Structs:**** The `Transaction` struct organizes transaction data into a reusable and efficient storage model.
@@ -32,7 +33,7 @@
 * ****Storage:**** Used storage keyword , for permanent blockchain reference.and gas usage.
 * ****Function Visibility:**** Used Visibilities like: `public` , `external`. To Controls accessibility and gas usage.
 * ****Dynamic Data Type (bytes):**** Arbitrary binary calldata container. This allows function calls, encoded parameters, contract interactions.
-* ****View Functions:**** Read-only blockchain access.
+* ****View Functions:**** Read-only blockchain access. 
 
 ## 🌐Technology Stack  (Technologies Used)
 * ****[Solidity](https://www.soliditylang.org/)**** - The programming language for writing the Smart contracts.
