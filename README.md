@@ -1,7 +1,7 @@
  # Multi Signature Wallet Smart Contract
  
  <p align="center">
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ee026dfc-4860-4ddd-a893-764bb4bcd35a" />
+  <img width="135" height="135" alt="image" src="https://github.com/user-attachments/assets/ee026dfc-4860-4ddd-a893-764bb4bcd35a" />
 </p>
 
 
