@@ -29,7 +29,7 @@
 * ****Ether Handling:**** Receiving and storing ETH. Allows direct ETH transfers into the wallet.
 * ****Checks-Effects-Interactions Pattern:**** Security pattern to reduce reentrancy attacks.
 * ****State Variables:****
-* ****Storage:****
+* ****Storage:**** Used storage keyword , for permanent blockchain reference.
 
 ## 🌐Technology Stack  (Technologies Used)
 * ****[Solidity](https://www.soliditylang.org/)**** - The programming language for writing the Smart contracts.
