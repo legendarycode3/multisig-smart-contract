@@ -1,7 +1,7 @@
 # Multi Signature Wallet Smart Contract
 
 ## Project Overview
-The `MultiSignature`
+The `MultiSignature` contract is a secure
 
 ## 📌 Features
 * ****Multi-Owner Wallet Support:**** Supports multiple wallet owners. Tracks authorized signers and prevents unauthorized access.
