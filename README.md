@@ -20,7 +20,8 @@ Key security mechanisms implemented include: </br>
 * duplicate confirmation prevention,
 * transaction existence validation,
 * quorum-based execution,
-* custom error and the Checks-Effects-Interactions pattern
+* custom error
+* and the Checks-Effects-Interactions pattern to reduce reentrancy risks.
 
 
 ## 📌 Features
