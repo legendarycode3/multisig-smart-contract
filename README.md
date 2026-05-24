@@ -29,6 +29,7 @@ This project `MultiSignature` demonstrates several advanced Solidity and smart c
 * mappings and nested mappings,
 * state machines,
 * custom errors,
+* event-driven architecture,
 
 
 ## 📌 Features
