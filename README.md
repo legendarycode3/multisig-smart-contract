@@ -32,7 +32,7 @@
 * ****Storage:**** Used storage keyword , for permanent blockchain reference.and gas usage.
 * ****Function Visibility:**** Used Visibilities like: `public` , `external`. To Controls accessibility and gas usage.
 * ****Dynamic Data Type (bytes):**** Arbitrary binary calldata container. This allows function calls, encoded parameters, contract interactions.
-* ****View Functions:**** Read-only
+* ****View Functions:**** Read-only blockchain access.
 
 ## 🌐Technology Stack  (Technologies Used)
 * ****[Solidity](https://www.soliditylang.org/)**** - The programming language for writing the Smart contracts.
