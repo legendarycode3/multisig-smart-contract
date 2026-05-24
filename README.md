@@ -26,7 +26,7 @@ Key security mechanisms implemented include: </br>
 This project `MultiSignature` demonstrates several advanced Solidity and smart contract engineering concepts such as:
 * multisignature governance,
 * low-level contract calls,
-* mappings and
+* mappings and nested mappings,
 
 
 ## 📌 Features
