@@ -17,7 +17,7 @@
 * ****Confirmation Tracking Per Owner:**** Uses nested mappings to track whether a specific owner confirmed a particular transaction.
 * ****On-Chain Transaction History:**** All submitted transactions remain stored on-chain for transparency and auditing.
 * ****Transaction Count Tracking:**** Includes a helper function to return the total number of submitted transactions.
-* ****Decentralized Governance Logic:**** Multiple owners
+* ****Decentralized Governance Logic:**** Multiple owners collectively approve actions.
 
 ## 🧠 Key Concepts Applied
 * ****Structs:**** The `Transaction` struct organizes transaction data into a reusable and efficient storage model.
