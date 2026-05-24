@@ -1,5 +1,5 @@
-# <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ee026dfc-4860-4ddd-a893-764bb4bcd35a" />
- Multi Signature Wallet Smart Contract
+ <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/ee026dfc-4860-4ddd-a893-764bb4bcd35a" />
+ # Multi Signature Wallet Smart Contract
 
 ## Project Overview
 The `MultiSignature` contract is a secure Ethereum smart contract wallet designed to manage and protect digital assets through a multi-owner approval system. Instead of relying on a single private key or account to authorize transactions, the wallet requires multiple independent confirmations from predefined owners before funds or contract interactions can be executed. </br>
