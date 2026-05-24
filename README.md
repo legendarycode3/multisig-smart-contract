@@ -6,7 +6,7 @@ The `MultiSignature` contract is a secure Ethereum smart contract wallet designe
 The contract allows authorized owners to:
 * submit transaction proposals,
 * confirm pending transactions,
-* revoke confirmations
+* revoke confirmations before execution,
 
 
 ## 📌 Features
