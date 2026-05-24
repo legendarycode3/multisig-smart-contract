@@ -13,6 +13,7 @@ The wallet also supports: </br>
 * Ether deposits,
 * arbitrary smart contract calls through encoded calldata,
 * transparent event logging,
+* and transaction state
 
 
 ## 📌 Features
