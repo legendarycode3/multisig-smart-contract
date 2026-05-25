@@ -114,11 +114,12 @@ Purpose: </br>
 * `Remix IDE` or `Foundry Development Kit`
 
 ### Recommendation  (For Beginners)
-****NOTE (Use Remix IDE, for quick prototyping)****:  You can literally just copy the main contract source code and paste it on Remix IDE and learn along side how the code  works while trying to build yours as you keep building.  </br>
-1. Copy the core smart contract file
+****NOTE (Use Remix IDE, for quick prototyping)****:  You can literally just copy the main contract source code and paste it on Remix IDE and learn along side how the code  works while trying to build yours as you keep building. 
+
 
 ## Usage
 ### Building the Project (Using Remix IDE):
+1. Copy the core smart contract file code StudentRegistry.sol to Remix IDE 
 
 ## Why This Matters (Multi Signature Wallet Smart Contract)
 Multi-signature (MultiSig) smart contracts matter in Web3 because they require two or more cryptographic keys to authorize a single blockchain transaction. Unlike standard single-key wallets (EOAs),  they distribute control and eliminate  single points of failure, making them the industry standard for securing large treasuries and institutional assets. </br>
