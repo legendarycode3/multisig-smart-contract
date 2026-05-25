@@ -108,6 +108,9 @@ Purpose: </br>
 * ****[Foundry(forge, cast, anvil)](https://www.getfoundry.sh/)**** - Development framework  and testing suite.
 * ****[Visual Studio Code](https://code.visualstudio.com/)**** - Install this IDE only if you are using foundry development kit rather than "Remix IDE" which is for quick prototying.
 
+## Getting Started
+
+
 ## Why This Matters (Multi Signature Wallet Smart Contract)
 Multi-signature (MultiSig) smart contracts matter in Web3 because they require two or more cryptographic keys to authorize a single blockchain transaction. Unlike standard single-key wallets (EOAs),  they distribute control and eliminate  single points of failure, making them the industry standard for securing large treasuries and institutional assets. </br>
 
