@@ -92,7 +92,7 @@ It includes:  </br>
   * Owner validation tests.
   * Confirmation & execution tests.
   * Revert/error testing.
-  * Edge case
+  * Edge case and security testing.
     
 ## 🌐Technology Stack  (Technologies Used)
 * ****[Solidity](https://www.soliditylang.org/)**** - The programming language for writing the Smart contracts.
