@@ -109,6 +109,7 @@ Purpose: </br>
 * ****[Visual Studio Code](https://code.visualstudio.com/)**** - Install this IDE only if you are using foundry development kit rather than "Remix IDE" which is for quick prototying.
 
 ## Getting Started
+Prerequisites
 
 
 ## Why This Matters (Multi Signature Wallet Smart Contract)
