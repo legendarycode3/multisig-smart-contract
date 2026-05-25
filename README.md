@@ -76,8 +76,8 @@ This project `MultiSignature` demonstrates several advanced Solidity and smart c
 * ****`MultiSignature.sol`****: Main smart contract file containing the complete `Multi-Signature Wallet` logic. </br>
 It includes: </br>
   * Owner management.
-  * Transaction submission.
-  * Transaction confirmation & revocation.
+  * Handles Transaction submission.
+  * Handles Transaction confirmation & revocation.
   * Emits events for blockchain activity tracking.
   * Multi-signature approval system.
   * Transaction execution.
