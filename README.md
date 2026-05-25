@@ -94,6 +94,7 @@ It includes:  </br>
   * Confirmation & execution tests.
   * Revert/error testing.
   * Edge case and security testing.
+  * Verifies expected
  
 Purpose: </br>
   Ensures the `MultiSignature.sol` contract works correctly and securely before deployment.
