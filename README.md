@@ -91,9 +91,9 @@ Purpose: </br>
 It includes:  </br>
   * Unit tests for all contract functions.
   * Owner validation tests.
-  * Confirmation & execution tests.
+  * Tests transaction submission and counting.
   * Tests confirmations and approval flow.
-  * Tests transaction
+  * Confirmation & execution tests.
   * Revert/error testing.
   * Edge case and security testing. 
   * Verifies expected reverts and edge cases.
