@@ -84,7 +84,7 @@ It includes: </br>
   * Helper/view functions for reading wallet data. </br>
 
 Purpose: </br>
-  Handles all on-chain wallet operations and
+  Handles all on-chain wallet operations and security rules.
   
 * ****`MultiSignature.t.sol`****:
 
