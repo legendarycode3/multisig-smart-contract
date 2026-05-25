@@ -78,7 +78,7 @@ It includes: </br>
   * Owner management.
   * Transaction submission.
   * Transaction confirmation & revocation.
-  * Emits events for
+  * Emits events for blockchain activity tracking.
   * Multi-signature approval system.
   * Transaction execution.
   * Security checks, modifiers, events and custom errors.
