@@ -90,7 +90,7 @@ Purpose: </br>
 It includes:  </br>
   * Unit tests for all contract functions.
   * Owner validation tests.
-  * Confirmation &
+  * Confirmation & execution tests
     
 ## 🌐Technology Stack  (Technologies Used)
 * ****[Solidity](https://www.soliditylang.org/)**** - The programming language for writing the Smart contracts.
