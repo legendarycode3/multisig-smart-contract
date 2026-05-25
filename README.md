@@ -80,7 +80,7 @@ It includes: </br>
 * Transaction confirmation & revocation.
 * Multi-signature approval system.
 * Transaction execution.
-* Security checks, modifiers, events 
+* Security checks, modifiers, events and custom errors.
 * ****`MultiSignature.t.sol`****:
 
 ## 🌐Technology Stack  (Technologies Used)
