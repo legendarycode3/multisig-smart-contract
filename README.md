@@ -115,6 +115,7 @@ Purpose: </br>
 
 ### Recommendation  (For Beginners)
 ****NOTE (Use Remix IDE, for quick prototyping)****:  You can literally just copy the main contract source code and paste it on Remix IDE and learn along side how the code  works while trying to build yours as you keep building. 
+1. Copy the core 
 
 ## Usage
 ### Building the Project (Using Remix IDE):
