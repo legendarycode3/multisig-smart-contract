@@ -93,6 +93,8 @@ It includes:  </br>
   * Confirmation & execution tests.
   * Revert/error testing.
   * Edge case and security testing.
+ 
+Purpose: </br>
     
 ## 🌐Technology Stack  (Technologies Used)
 * ****[Solidity](https://www.soliditylang.org/)**** - The programming language for writing the Smart contracts.
