@@ -81,7 +81,9 @@ It includes: </br>
 * Multi-signature approval system.
 * Transaction execution.
 * Security checks, modifiers, events and custom errors.
-* Helper/view functions for reading wallet data
+* Helper/view functions for reading wallet data. </br>
+
+Purpose: </br>
   
 * ****`MultiSignature.t.sol`****:
 
