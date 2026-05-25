@@ -74,7 +74,8 @@ This project `MultiSignature` demonstrates several advanced Solidity and smart c
 
 ## 📂 Project Structure (Files)
 * ****`MultiSignature.sol`****: Main smart contract file containing the complete `Multi-Signature Wallet` logic. </br>
-It includes:
+It includes: </br>
+* Owner management
 * ****`MultiSignature.t.sol`****:
 
 ## 🌐Technology Stack  (Technologies Used)
