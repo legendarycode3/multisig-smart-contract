@@ -85,7 +85,7 @@ It includes: </br>
   * Helper/view functions for reading wallet data. </br>
 
 Purpose: </br>
-  Handles all on-chain wallet operations and security rules. Ensures the smart contract functions correctly,
+  Handles all on-chain wallet operations and security rules. 
   
 * ****`MultiSignature.t.sol`****: Test file written for validating the smart contract behavior (commonly using `Foundry` framework). </br>
 It includes:  </br>
@@ -100,7 +100,7 @@ It includes:  </br>
   * Verifies expected reverts and edge cases.
  
 Purpose: </br>
-  Ensures the `MultiSignature.sol` contract works correctly and securely before deployment.
+  Ensures the `MultiSignature.sol` contract works correctly and securely before deployment. 
     
 ## 🌐Technology Stack  (Technologies Used)
 * ****[Solidity](https://www.soliditylang.org/)**** - The programming language for writing the Smart contracts.
