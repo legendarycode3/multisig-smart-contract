@@ -111,7 +111,9 @@ Purpose: </br>
 ## Getting Started
 ### Prerequisites
 * Solidity Compiler, Version ^0.8.19 or higher.
-* `Remix IDE` or `Foundry Development Kit`.
+* `Remix IDE` or `Foundry Development Kit`
+
+### Recommendation 
 
 ## Why This Matters (Multi Signature Wallet Smart Contract)
 Multi-signature (MultiSig) smart contracts matter in Web3 because they require two or more cryptographic keys to authorize a single blockchain transaction. Unlike standard single-key wallets (EOAs),  they distribute control and eliminate  single points of failure, making them the industry standard for securing large treasuries and institutional assets. </br>
