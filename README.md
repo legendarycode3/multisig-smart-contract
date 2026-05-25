@@ -78,6 +78,7 @@ It includes: </br>
   * Owner management.
   * Transaction submission.
   * Transaction confirmation & revocation.
+  * Emits events for
   * Multi-signature approval system.
   * Transaction execution.
   * Security checks, modifiers, events and custom errors.
