@@ -77,7 +77,7 @@ This project `MultiSignature` demonstrates several advanced Solidity and smart c
 It includes: </br>
 * Owner management.
 * Transaction submission.
-* Transaction confirmation
+* Transaction confirmation & revocation.
 * ****`MultiSignature.t.sol`****:
 
 ## 🌐Technology Stack  (Technologies Used)
