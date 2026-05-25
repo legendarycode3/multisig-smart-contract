@@ -93,8 +93,8 @@ It includes:  </br>
   * Owner validation tests.
   * Confirmation & execution tests.
   * Revert/error testing.
-  * Edge case and security testing.
-  * Verifies expected
+  * Edge case and security testing. 
+  * Verifies expected reverts and edge cases.
  
 Purpose: </br>
   Ensures the `MultiSignature.sol` contract works correctly and securely before deployment.
