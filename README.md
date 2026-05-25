@@ -79,7 +79,8 @@ It includes: </br>
 * Transaction submission.
 * Transaction confirmation & revocation.
 * Multi-signature approval system.
-* Transaction execution
+* Transaction execution.
+* Security checks,
 * ****`MultiSignature.t.sol`****:
 
 ## 🌐Technology Stack  (Technologies Used)
