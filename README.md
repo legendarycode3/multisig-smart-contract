@@ -92,7 +92,7 @@ It includes:  </br>
   * Unit tests for all contract functions.
   * Owner validation tests.
   * Confirmation & execution tests.
-  * Tests confirmations
+  * Tests confirmations and approval flow.
   * Revert/error testing.
   * Edge case and security testing. 
   * Verifies expected reverts and edge cases.
