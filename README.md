@@ -121,6 +121,7 @@ Purpose: </br>
 ### Building the Project (Using Remix IDE):
 1. Copy the core smart contract file code `MultiSignature.sol` to Remix IDE (a browser based IDE,  for quick prototyping).
 2. Create a new file for the project on your Remix IDE and paste , to learn and build along faster.
+3. And then Compile
 
 ## Why This Matters (Multi Signature Wallet Smart Contract)
 Multi-signature (MultiSig) smart contracts matter in Web3 because they require two or more cryptographic keys to authorize a single blockchain transaction. Unlike standard single-key wallets (EOAs),  they distribute control and eliminate  single points of failure, making them the industry standard for securing large treasuries and institutional assets. </br>
