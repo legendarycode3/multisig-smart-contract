@@ -124,6 +124,7 @@ Purpose: </br>
 3. And then Compile  the smart contract file you have created on Remix IDE.
 
 ### Building the Project (Using Foundry Development Kit ) - only if you are good using foundry kit
+1. Clone the repository:
 
 ## Why This Matters (Multi Signature Wallet Smart Contract)
 Multi-signature (MultiSig) smart contracts matter in Web3 because they require two or more cryptographic keys to authorize a single blockchain transaction. Unlike standard single-key wallets (EOAs),  they distribute control and eliminate  single points of failure, making them the industry standard for securing large treasuries and institutional assets. </br>
