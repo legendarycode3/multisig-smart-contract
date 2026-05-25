@@ -81,6 +81,8 @@ It includes: </br>
 * Multi-signature approval system.
 * Transaction execution.
 * Security checks, modifiers, events and custom errors.
+* Helper/view
+  
 * ****`MultiSignature.t.sol`****:
 
 ## 🌐Technology Stack  (Technologies Used)
