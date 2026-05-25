@@ -73,7 +73,7 @@ This project `MultiSignature` demonstrates several advanced Solidity and smart c
 * ****View Functions:**** Read-only blockchain access. 
 
 ## 📂 Project Structure (Files)
-* ****`MultiSignature.sol`****: Main smart contract file containing
+* ****`MultiSignature.sol`****: Main smart contract file containing the complete
 * ****`MultiSignature.t.sol`****:
 
 ## 🌐Technology Stack  (Technologies Used)
