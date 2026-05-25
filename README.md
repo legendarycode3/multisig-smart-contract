@@ -72,6 +72,8 @@ This project `MultiSignature` demonstrates several advanced Solidity and smart c
 * ****Dynamic Data Type (bytes):**** Arbitrary binary calldata container. This allows function calls, encoded parameters, contract interactions.
 * ****View Functions:**** Read-only blockchain access. 
 
+## 📂 Project Structure (Files)
+
 ## 🌐Technology Stack  (Technologies Used)
 * ****[Solidity](https://www.soliditylang.org/)**** - The programming language for writing the Smart contracts.
 * ****[Remix IDE](https://remix.ethereum.org/)**** - used it to write, and deploy the smart contract directly in the browser first.  A fastest way to get started, acting as a "no-setup" workshop for smart contract development.
