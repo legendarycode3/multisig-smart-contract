@@ -116,6 +116,8 @@ Purpose: </br>
 ### Recommendation  (For Beginners)
 ****NOTE (Use Remix IDE, for quick prototyping)****:  You can literally just copy the main contract source code and paste it on Remix IDE and learn along side how the code  works while trying to build yours as you keep building. 
 
+## Usage
+
 ## Why This Matters (Multi Signature Wallet Smart Contract)
 Multi-signature (MultiSig) smart contracts matter in Web3 because they require two or more cryptographic keys to authorize a single blockchain transaction. Unlike standard single-key wallets (EOAs),  they distribute control and eliminate  single points of failure, making them the industry standard for securing large treasuries and institutional assets. </br>
 
