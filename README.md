@@ -78,7 +78,7 @@ It includes: </br>
 * Owner management.
 * Transaction submission.
 * Transaction confirmation & revocation.
-* Multi-signature
+* Multi-signature approval system
 * ****`MultiSignature.t.sol`****:
 
 ## 🌐Technology Stack  (Technologies Used)
