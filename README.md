@@ -73,6 +73,7 @@ This project `MultiSignature` demonstrates several advanced Solidity and smart c
 * ****View Functions:**** Read-only blockchain access. 
 
 ## 📂 Project Structure (Files)
+* ****`MultiSignature.sol`****:
 
 ## 🌐Technology Stack  (Technologies Used)
 * ****[Solidity](https://www.soliditylang.org/)**** - The programming language for writing the Smart contracts.
