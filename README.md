@@ -85,7 +85,7 @@ It includes: </br>
   * Helper/view functions for reading wallet data. </br>
 
 Purpose: </br>
-  Handles all on-chain wallet operations and security rules.
+  Handles all on-chain wallet operations and security rules. Ensures the smart
   
 * ****`MultiSignature.t.sol`****: Test file written for validating the smart contract behavior (commonly using `Foundry` framework). </br>
 It includes:  </br>
