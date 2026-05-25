@@ -95,7 +95,7 @@ It includes:  </br>
   * Edge case and security testing.
  
 Purpose: </br>
-  Ensures the `MultiSignature.sol` contract works correctly and securely
+  Ensures the `MultiSignature.sol` contract works correctly and securely before deployment.
     
 ## 🌐Technology Stack  (Technologies Used)
 * ****[Solidity](https://www.soliditylang.org/)**** - The programming language for writing the Smart contracts.
