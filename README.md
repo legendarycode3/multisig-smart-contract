@@ -86,7 +86,7 @@ It includes: </br>
 Purpose: </br>
   Handles all on-chain wallet operations and security rules.
   
-* ****`MultiSignature.t.sol`****: Test file written for validating the smart contract
+* ****`MultiSignature.t.sol`****: Test file written for validating the smart contract behavior (commonly using
 
 ## 🌐Technology Stack  (Technologies Used)
 * ****[Solidity](https://www.soliditylang.org/)**** - The programming language for writing the Smart contracts.
