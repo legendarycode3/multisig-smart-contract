@@ -151,6 +151,7 @@ Runing all tests: </br>
 * ****`submitTransaction(address _to, uint256 _value, bytes memory _data)`****: Creates a new transaction proposal. Only wallet owners can call it.
 * ****`confirmTransaction(uint256 _txIndex)`****:  Allows owners only to Confirm / approve a transaction.
 * ****`executeTransaction(uint256 _txIndex)`****: Executes an approved transaction. This is the function that actually transfers funds. Only owners can execute this. The function "Verifies if enough confirmations exist", "Verifies contract has enough ETH", "Marks transaction as `Executed`" and "Performs low-level external call".
+* ****`revokeConfirmation`****
 
 ### Variables:
 
