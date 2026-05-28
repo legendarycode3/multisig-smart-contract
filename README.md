@@ -147,7 +147,7 @@ Runing all tests: </br>
 ## 📋Contract Details
 ### Functions:
 * ****`constructor(address[] memory _owners, uint256 _numConfirmationsRequired)`****: Initializes the multi-signature wallet. It Registers wallet owners and Sets the minimum confirmations required.
-* ****`receive()`****:
+* ****`receive()`****: Allows the contract to receive Ether directly.
 
 ### Variables:
 
