@@ -146,6 +146,7 @@ Runing all tests: </br>
 
 ## 📋Contract Details
 ### Functions:
+* ****`constructor(address[] memory _owners, uint256 _numConfirmationsRequired)`****:
 
 ### Variables:
 
