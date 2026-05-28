@@ -160,7 +160,7 @@ Runing all tests: </br>
 * ****`s_owners`****: Stores the list of all authorized wallet owners. It is a Dynamic type array of addresses. It practically Keeps track of every address allowed to: "submit transactions", "confirm transactions", "execute transactions" , "revoke confirmations".
 * ****`s_isOwner`****: Helps quickly checks whether an address is an authorized owner. It Maps from address → boolean (Best for providing fast owner verification).
 * ****`s_numConfirmationsRequired`****: Defines the minimum number of approvals needed before a transaction can be executed (by the entire wallet owners).  This is the core security threshold of the wallet. This variable determines: "Wallet decentralization", "Security level" , "Consensus requirement" for the multi-signature wallet.
-* ****`s_transactions`****:
+* ****`s_transactions`****: Stores all submitted
 
 
 ## Why This Matters (Multi Signature Wallet Smart Contract)
