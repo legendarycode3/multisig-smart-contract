@@ -150,7 +150,7 @@ Runing all tests: </br>
 * ****`receive()`****: Allows the contract to receive Ether directly. It Accepts ETH sent to the contract and emits a `Deposit` event.
 * ****`submitTransaction(address _to, uint256 _value, bytes memory _data)`****: Creates a new transaction proposal. Only wallet owners can call it.
 * ****`confirmTransaction(uint256 _txIndex)`****:  Allows owners only to Confirm / approve a transaction.
-* ****`executeTransaction(uint256 _txIndex)`****: Executes an approved transaction. This is the function that actually transfers funds. Only owners can execute this. The function `Verifies if enough confirmations exist
+* ****`executeTransaction(uint256 _txIndex)`****: Executes an approved transaction. This is the function that actually transfers funds. Only owners can execute this. The function `Verifies if enough confirmations exist`, `Verifies contract has enough ETH`
 
 ### Variables:
 
