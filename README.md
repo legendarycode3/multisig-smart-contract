@@ -154,7 +154,7 @@ Runing all tests: </br>
 * ****`revokeConfirmation(uint256 _txIndex)`**** Revokes a previously submitted confirmation. Allows `onlyOwner` to remove their approval and Cannot revoke if never approved (transaction must exist).
 * ****`getTransactionCount()`****: Returns the total number of submitted transactions.
 * ****`getTransaction(uint256 _txIndex)`:**** Returns complete information about a transaction. Useful for "Transaction tracking", "Blockchain explorers"and  "Offchain dashboards".
-* ****`getOwners()`****:
+* ****`getOwners()`****: Returns all
 
 ### Variables:
 
