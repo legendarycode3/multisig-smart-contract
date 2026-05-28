@@ -157,7 +157,7 @@ Runing all tests: </br>
 * ****`getOwners()`****: Returns all registered wallet owners.
 
 ### Variables:
-* ****`s_owners`****: Stores the list of all
+* ****`s_owners`****: Stores the list of all authorized wallet owners.
 
 ## Why This Matters (Multi Signature Wallet Smart Contract)
 Multi-signature (MultiSig) smart contracts matter in Web3 because they require two or more cryptographic keys to authorize a single blockchain transaction. Unlike standard single-key wallets (EOAs),  they distribute control and eliminate  single points of failure, making them the industry standard for securing large treasuries and institutional assets. </br>
