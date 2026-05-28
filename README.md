@@ -148,7 +148,7 @@ Runing all tests: </br>
 ### Functions:
 * ****`constructor(address[] memory _owners, uint256 _numConfirmationsRequired)`****: Initializes the multi-signature wallet. It Registers wallet owners and Sets the minimum confirmations required.
 * ****`receive()`****: Allows the contract to receive Ether directly. It Accepts ETH sent to the contract and emits a `Deposit` event.
-* ****`submitTransaction(address _to, uint256 _value, bytes memory _data)`****: Creates a new transaction proposal.
+* ****`submitTransaction(address _to, uint256 _value, bytes memory _data)`****: Creates a new transaction proposal. Only wallet owners can call it.
 
 ### Variables:
 
