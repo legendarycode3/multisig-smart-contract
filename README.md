@@ -157,7 +157,7 @@ Runing all tests: </br>
 * ****`getOwners()`****: Returns all registered wallet owners.
 
 ### Variables:
-* ****`s_owners`****: Stores the list of all authorized wallet owners. It is a Dynamic type array of addresses. It practically Keeps track of every address allowed to:
+* ****`s_owners`****: Stores the list of all authorized wallet owners. It is a Dynamic type array of addresses. It practically Keeps track of every address allowed to: "submit transactions"
 * ****`
 
 ## Why This Matters (Multi Signature Wallet Smart Contract)
