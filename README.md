@@ -153,7 +153,7 @@ Runing all tests: </br>
 * ****`executeTransaction(uint256 _txIndex)`****: Executes an approved transaction. This is the function that actually transfers funds. Only owners can execute this. The function "Verifies if enough confirmations exist", "Verifies contract has enough ETH", "Marks transaction as `Executed`" and "Performs low-level external call".
 * ****`revokeConfirmation(uint256 _txIndex)`**** Revokes a previously submitted confirmation. Allows `onlyOwner` to remove their approval and Cannot revoke if never approved (transaction must exist).
 * ****`getTransactionCount()`****: Returns the total number of submitted transactions.
-* ****`getTransaction`:****
+* ****`getTransaction(uint256 _txIndex)`:****
 
 ### Variables:
 
