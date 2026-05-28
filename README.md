@@ -159,7 +159,7 @@ Runing all tests: </br>
 ### Variables:
 * ****`s_owners`****: Stores the list of all authorized wallet owners. It is a Dynamic type array of addresses. It practically Keeps track of every address allowed to: "submit transactions", "confirm transactions", "execute transactions" , "revoke confirmations".
 * ****`s_isOwner`****: Helps quickly checks whether an address is an authorized owner. It Maps from address → boolean (Best for providing fast owner verification).
-* ****`s_numConfirmationsRequired`****: Defines the minimum number of approvals needed before a transaction can be executed.
+* ****`s_numConfirmationsRequired`****: Defines the minimum number of approvals needed before a transaction can be executed.  This is the core security threshold of the wallet.
 
 ## Why This Matters (Multi Signature Wallet Smart Contract)
 Multi-signature (MultiSig) smart contracts matter in Web3 because they require two or more cryptographic keys to authorize a single blockchain transaction. Unlike standard single-key wallets (EOAs),  they distribute control and eliminate  single points of failure, making them the industry standard for securing large treasuries and institutional assets. </br>
