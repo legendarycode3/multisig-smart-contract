@@ -162,7 +162,7 @@ Runing all tests: </br>
 * ****`s_numConfirmationsRequired`****: Defines the minimum number of approvals needed before a transaction can be executed (by the entire wallet owners).  This is the core security threshold of the wallet. This variable determines: "Wallet decentralization", "Security level" , "Consensus requirement" for the multi-signature wallet.
 * ****`s_transactions`****: Stores all submitted transaction proposals. It transaction type is a Dynamic array of `Transaction` structs. Stores every submitted transaction, whenever an owner proposes a transaction.
 * ****`s_isConfirmed`****: Tracks which owners confirmed which transactions. This mechanism practical used, prevents "duplicate confirmations", "unauthorized revocations".
-* ****`TxState`****: Enum Variable Type, defines all possible transaction states (E.G `Pending`,).
+* ****`TxState`****: Enum Variable Type, defines all possible transaction states (E.G `Pending`, `Approved`).
 
 
 ## Why This Matters (Multi Signature Wallet Smart Contract)
