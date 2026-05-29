@@ -178,6 +178,7 @@ Here is why MultiSig smart contracts are critical to the Web3 ecosystem: </br>
 7. ****Improves Security:**** Multiple approvals are required before transactions execute, making unauthorized transfers much harder.
 8. ****Builds Trust Among Team Members:**** No single individual has complete control over organizational assets.
 9. ****Represents Core Web3 Principles:**** MultiSig wallets embody decentralization, transparency, shared ownership, and trust minimization within blockchain ecosystems.
+10. ****Payroll &:****
 
 
 ## Common Key UseCases of `Multi-Signature` Smart Contracts
