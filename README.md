@@ -200,6 +200,7 @@ Here are the most common use cases:
 * ****Security:****
 * ****Decentralization:****
 * ****Accountability:****
+* ****Transparency:****
 
 
 ## Foundry
