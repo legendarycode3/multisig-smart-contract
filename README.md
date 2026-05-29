@@ -206,7 +206,7 @@ Here are the most common use cases:
 * ****Eliminates Single Point of Failure:**** Traditional wallets depend on one owner/key. Multisig distributes control across: "people", "devices", "organizations","locations".
 * ****Fraud & Insider Protection:**** A rogue employee or malicious partner cannot move funds alone.
 * ****Improved Fund Recovery Options:**** Losing one device does not necessarily mean losing access to funds. Users can distribute signing keys across: "hardware wallets" , "cold storage", "trusted guardians", "backup devices".
-* 
+* ****Increased Trust Between Parties:****
 
 ## Foundry
 
