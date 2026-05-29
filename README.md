@@ -193,7 +193,7 @@ Here are the most common use cases:
 9. ****Cross-Chain Bridge Security:**** Blockchain bridges often use multisig validators to authorize cross-chain asset transfers.
 10. ****Secure Custody of Large Funds:**** Whales, institutions, and crypto funds use multisigs to protect large holdings.
 11. ****Payroll & Recurring Payments:**** Organizations use multisig for controlled payroll systems.
-12. ****Charity & Nonprofit Transparency:****
+12. ****Charity & Nonprofit Transparency:**** Nonprofits can use multisigs
 
 
 
