@@ -199,7 +199,7 @@ Here are the most common use cases:
 ## Key Benefits of MultiSig Contracts
 * ****Security:**** No single private key controls funds.
 * ****Decentralization:**** Shared authority.
-* ****Accountability:****
+* ****Accountability:**** Every approval is traceable.
 * ****Transparency:****
 * ****Fault Tolerance:****
 * ****Governance:****
