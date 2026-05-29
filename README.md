@@ -185,6 +185,7 @@ Here are the most common use cases:
 1. ****Treasury Management for DAOs:**** A decentralized autonomous organization (DAO) often stores community funds in a multisig wallet so that no single person can move funds alone. Simply , Multisig wallets is used to manage treasury.
 2. ****Corporate Crypto Asset Custody:****  Companies holding cryptocurrency often use multisig contracts for operational security.
 3. ****Escrow Services:**** Multisig contracts are commonly used in trustless escrow systems.
+4. ****Joint Accounts /:****
 
 
 
