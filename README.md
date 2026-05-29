@@ -187,7 +187,7 @@ Here are the most common use cases:
 3. ****Escrow Services:**** Multisig contracts are commonly used in trustless escrow systems.
 4. ****Joint Accounts / Shared Ownership:**** Multisig contracts work like blockchain joint bank accounts.
 5. ****DeFi Protocol Governance:**** Many decentralized finance protocols protect administrative functions with multisig contracts.
-6. ****Smart Contract Upgrade Authorization:**** Upgradeable smart contracts often require multisig approval before: "deploying upgrades", "changing implementation addresses",
+6. ****Smart Contract Upgrade Authorization:**** Upgradeable smart contracts often require multisig approval before: "deploying upgrades", "changing implementation addresses", "modifying permissions".
 
 
 ## Foundry
