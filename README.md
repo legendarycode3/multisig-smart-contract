@@ -197,6 +197,7 @@ Here are the most common use cases:
 13. ****Emergency Recovery Wallets:**** Users create social recovery systems using multisigs.
 
 ## Key Benefits of MultiSig Contracts
+* ****Security:****
 
 
 ## Foundry
