@@ -205,7 +205,7 @@ Here are the most common use cases:
 * ****Governance:**** Enables collective decision-making.
 * ****Eliminates Single Point of Failure:**** Traditional wallets depend on one owner/key. Multisig distributes control across: "people", "devices", "organizations","locations".
 * ****Fraud & Insider Protection:**** A rogue employee or malicious partner cannot move funds alone.
-* ****Improved Fund Recovery Options:****
+* ****Improved Fund Recovery Options:**** Losing one device does not
 
 ## Foundry
 
