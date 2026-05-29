@@ -208,7 +208,7 @@ Here are the most common use cases:
 * ****Improved Fund Recovery Options:**** Losing one device does not necessarily mean losing access to funds. Users can distribute signing keys across: "hardware wallets" , "cold storage", "trusted guardians", "backup devices".
 * ****Increased Trust Between Parties:**** Multisig creates transparent approval requirements. No party must blindly trust another.
 * ****Protection for Protocol Admin Functions:**** Reduces protocol takeover risk. In decentralized finance (DeFi), admin privileges are dangerous if centralized. Multisig protects: "protocol upgrades" , "emergency pauses", "parameter changes", "treasury access".
-* ****Geographic & Device Distribution:**** Improves resilience against: "physical theft", "regional disasters"
+* ****Geographic & Device Distribution:**** Improves resilience against: "physical theft", "regional disasters", "targeted attacks".
 
 
 ## Foundry
