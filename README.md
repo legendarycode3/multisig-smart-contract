@@ -200,7 +200,7 @@ Here are the most common use cases:
 * ****Security:**** No single private key controls funds.
 * ****Decentralization:**** Shared authority.
 * ****Accountability:**** Every approval is traceable.
-* ****Transparency:****
+* ****Transparency:**** On-chain audit trail.
 * ****Fault Tolerance:****
 * ****Governance:****
 
