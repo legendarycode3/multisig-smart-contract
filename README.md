@@ -182,7 +182,7 @@ Here is why MultiSig smart contracts are critical to the Web3 ecosystem: </br>
 
 ## Common Key UseCases of `Multi-Signature` Smart Contracts
 Here are the most common use cases:
-1. ****Treasury Management for DAOs:**** A decentralized autonomous organization (DAO) often stores community funds in a multisig wallet so that
+1. ****Treasury Management for DAOs:**** A decentralized autonomous organization (DAO) often stores community funds in a multisig wallet so that no single person can move funds alone.
 
 
 
