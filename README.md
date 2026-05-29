@@ -201,7 +201,7 @@ Here are the most common use cases:
 * ****Decentralization:**** Shared authority.
 * ****Accountability:**** Every approval is traceable.
 * ****Transparency:**** On-chain audit trail.
-* ****Fault Tolerance:****
+* ****Fault Tolerance:**** One lost key doesn’t destroy access.
 * ****Governance:****
 
 
