@@ -198,6 +198,7 @@ Here are the most common use cases:
 
 ## Key Benefits of MultiSig Contracts
 * ****Security:****
+* ****Decentralization:****
 
 
 ## Foundry
