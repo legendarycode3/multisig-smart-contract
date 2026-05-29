@@ -197,7 +197,7 @@ Here are the most common use cases:
 13. ****Emergency Recovery Wallets:**** Users create social recovery systems using multisigs.
 
 ## Key Benefits of MultiSig Contracts
-* ****Security:**** No single private key controls funds.
+* ****Security:**** No single private key controls funds. Instead of relying on a single private key,
 * ****Decentralization:**** Shared authority.
 * ****Accountability:**** Every approval is traceable.
 * ****Transparency:**** On-chain audit trail.
