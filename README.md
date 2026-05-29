@@ -203,7 +203,7 @@ Here are the most common use cases:
 * ****Transparency:**** On-chain audit trail.
 * ****Fault Tolerance:**** One lost key doesn’t destroy access.
 * ****Governance:**** Enables collective decision-making.
-* ****Eliminates Single Point of Failure:****
+* ****Eliminates Single Point of Failure:**** Traditional wallets depend
 
 
 ## Foundry
