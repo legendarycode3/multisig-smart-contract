@@ -202,6 +202,7 @@ Here are the most common use cases:
 * ****Accountability:****
 * ****Transparency:****
 * ****Fault Tolerance:****
+* ****Governance:****
 
 
 ## Foundry
