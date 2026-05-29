@@ -182,6 +182,7 @@ Here is why MultiSig smart contracts are critical to the Web3 ecosystem: </br>
 
 ## Common Key UseCases of `Multi-Signature` Smart Contracts
 Here are the most common use cases:
+1. ****Treasury Management
 
 
 
