@@ -200,7 +200,7 @@ Here are the most common use cases:
 * ****Enhanced Security:**** No single private key controls funds. Instead of relying on a single private key, multisig contracts require multiple signatures.
 * ****Decentralization :**** Shared authority. Multisig enables collective decision-making.
 * ****Accountability:**** Every approval is traceable.
-* ****Transparency:**** On-chain audit trail.
+* ****Transparency On-Chain:**** On-chain audit trail.
 * ****Fault Tolerance:**** One lost key doesn’t destroy access.
 * ****Governance:**** Enables collective decision-making.
 * ****Eliminates Single Point of Failure:**** Traditional wallets depend on one owner/key. Multisig distributes control across: "people", "devices", "organizations","locations".
