@@ -190,7 +190,7 @@ Here are the most common use cases:
 6. ****Smart Contract Upgrade Authorization:**** Upgradeable smart contracts often require multisig approval before: "deploying upgrades", "changing implementation addresses", "modifying permissions".
 7. ****Recovery & Security Protection:**** Multisig is heavily used for wallet security.
 8. ****NFT Community Treasuries:**** NFT projects commonly place royalties and treasury assets in multisig wallets.
-9. ****Cross-Chain Bridge Security:**** Blockchain bridges often use multisig validators to
+9. ****Cross-Chain Bridge Security:**** Blockchain bridges often use multisig validators to authorize cross-chain asset transfers.
 
 
 ## Foundry
