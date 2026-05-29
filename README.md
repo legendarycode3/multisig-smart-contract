@@ -178,7 +178,7 @@ Here is why MultiSig smart contracts are critical to the Web3 ecosystem: </br>
 7. ****Improves Security:**** Multiple approvals are required before transactions execute, making unauthorized transfers much harder.
 8. ****Builds Trust Among Team Members:**** No single individual has complete control over organizational assets.
 9. ****Represents Core Web3 Principles:**** MultiSig wallets embody decentralization, transparency, shared ownership, and trust minimization within blockchain ecosystems.
-10. ****Payroll & Recurring Payments:**** Organizations use multisig for controlled payroll systems.
+10. ****Payroll & Recurring Payments:**** Organizations use multisig for controlled payroll systems. 
 
 
 ## Common Key UseCases of `Multi-Signature` Smart Contracts
@@ -192,7 +192,7 @@ Here are the most common use cases:
 7. ****Recovery & Security Protection:**** Multisig is heavily used for wallet security.
 8. ****NFT Community Treasuries:**** NFT projects commonly place royalties and treasury assets in multisig wallets.
 9. ****Cross-Chain Bridge Security:**** Blockchain bridges often use multisig validators to authorize cross-chain asset transfers.
-10. ****Secure Custody of Large Funds:****
+10. ****Secure Custody of Large Funds:**** Whales, institutions, and crypto funds
 
 
 ## Foundry
