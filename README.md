@@ -199,15 +199,15 @@ Here are the most common use cases:
 ## Key Benefits of MultiSig Contracts
 * ****Enhanced Security:**** No single private key controls funds. Instead of relying on a single private key, multisig contracts require multiple signatures.
 * ****Decentralization :**** Shared authority. Multisig enables collective decision-making.
-* ****Accountability:**** Every approval is traceable.
-* ****Transparency On-Chain:**** On-chain audit trail.
+* ****Accountability:****  On-chain audit trail.
+* ****Transparency On-Chain:**** Every approval is traceable.
 * ****Fault Tolerance:**** One lost key doesn’t destroy access.
 * ****Governance:**** Enables collective decision-making.
 * ****Eliminates Single Point of Failure:**** Traditional wallets depend on one owner/key. Multisig distributes control across: "people", "devices", "organizations","locations".
 * ****Fraud & Insider Protection:**** A rogue employee or malicious partner cannot move funds alone.
 * ****Improved Fund Recovery Options:**** Losing one device does not necessarily mean losing access to funds. Users can distribute signing keys across: "hardware wallets" , "cold storage", "trusted guardians", "backup devices".
 * ****Increased Trust Between Parties:**** Multisig creates transparent approval requirements. No party must blindly trust another.
-* ****Protection for Protocol Admin Functions:**** Reduces protocol takeover risk.
+* ****Protection for Protocol Admin Functions:**** Reduces protocol takeover risk. In decentralized finance (DeFi),
 
 
 ## Foundry
