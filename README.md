@@ -207,7 +207,7 @@ Here are the most common use cases:
 * ****Fraud & Insider Protection:**** A rogue employee or malicious partner cannot move funds alone.
 * ****Improved Fund Recovery Options:**** Losing one device does not necessarily mean losing access to funds. Users can distribute signing keys across: "hardware wallets" , "cold storage", "trusted guardians", "backup devices".
 * ****Increased Trust Between Parties:**** Multisig creates transparent approval requirements. No party must blindly trust another.
-* ****Protection for Protocol Admin Functions:**** Reduces protocol takeover risk. In decentralized finance (DeFi),
+* ****Protection for Protocol Admin Functions:**** Reduces protocol takeover risk. In decentralized finance (DeFi), admin privileges are dangerous if centralized.
 
 
 ## Foundry
