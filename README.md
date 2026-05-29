@@ -189,7 +189,7 @@ Here are the most common use cases:
 5. ****DeFi Protocol Governance:**** Many decentralized finance protocols protect administrative functions with multisig contracts.
 6. ****Smart Contract Upgrade Authorization:**** Upgradeable smart contracts often require multisig approval before: "deploying upgrades", "changing implementation addresses", "modifying permissions".
 7. ****Recovery & Security Protection:**** Multisig is heavily used for wallet security.
-8. ****NFT Community Treasuries:**** NFT projects commonly place royalties and treasury
+8. ****NFT Community Treasuries:**** NFT projects commonly place royalties and treasury assets in multisig wallets.
 
 
 ## Foundry
