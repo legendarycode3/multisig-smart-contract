@@ -186,7 +186,7 @@ Here are the most common use cases:
 2. ****Corporate Crypto Asset Custody:****  Companies holding cryptocurrency often use multisig contracts for operational security.
 3. ****Escrow Services:**** Multisig contracts are commonly used in trustless escrow systems.
 4. ****Joint Accounts / Shared Ownership:**** Multisig contracts work like blockchain joint bank accounts.
-5. ****DeFi Protocol Governance:**** Many decentralized finance protocols protect administrative
+5. ****DeFi Protocol Governance:**** Many decentralized finance protocols protect administrative functions with multisig contracts.
 
 
 
