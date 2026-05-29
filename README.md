@@ -196,7 +196,7 @@ Here are the most common use cases:
 12. ****Charity & Nonprofit Transparency:**** Nonprofits can use multisigs to ensure donated funds are spent transparently.
 13. ****Emergency Recovery Wallets:**** Users create social recovery systems using multisigs.
 
-## Key Benefits of
+## Key Benefits of MultiSig Contracts
 
 
 ## Foundry
