@@ -194,7 +194,7 @@ Here are the most common use cases:
 10. ****Secure Custody of Large Funds:**** Whales, institutions, and crypto funds use multisigs to protect large holdings.
 11. ****Payroll & Recurring Payments:**** Organizations use multisig for controlled payroll systems.
 12. ****Charity & Nonprofit Transparency:**** Nonprofits can use multisigs to ensure donated funds are spent transparently.
-13. ****Emergency Recovery Wallets:****
+13. ****Emergency Recovery Wallets:**** Users create social
 
 
 
