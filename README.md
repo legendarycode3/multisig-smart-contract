@@ -217,6 +217,7 @@ Here are the most common use cases:
 4. ****External Call Risks:**** Transaction execution uses a low-level `call`, allowing interactions with arbitrary contracts. While the contract follows the Checks-Effects-Interactions pattern by updating state before external calls, owners should carefully review transaction targets and calldata before approving execution.
 5. ****Revocation Logic:**** Owners may revoke previously submitted confirmations before execution. Users should understand that a transaction that has reached the approval threshold may become unapproved if confirmations are revoked before execution.
 6. ****Smart Contract Audits:**** This implementation has not undergone a professional security audit unless explicitly stated. Independent audits and comprehensive testing are strongly recommended before securing significant amounts of value.
+7. ****Multiple approvals required****
 
 
 ## Foundry
