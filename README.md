@@ -211,6 +211,7 @@ Here are the most common use cases:
 * ****Geographic & Device Distribution:**** Improves resilience against: "physical theft", "regional disasters", "targeted attacks".
 
 ## Security Consideration
+1. ****Multi-Signature Protection:****
 
 ## Foundry
 
