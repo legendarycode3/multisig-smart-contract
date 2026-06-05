@@ -211,7 +211,7 @@ Here are the most common use cases:
 * ****Geographic & Device Distribution:**** Improves resilience against: "physical theft", "regional disasters", "targeted attacks".
 
 ## Security Consideration
-1. ****Multi-Signature Protection:**** This wallet requires multiple
+1. ****Multi-Signature Protection:**** This wallet requires multiple owner confirmations before a transaction can be executed.
 
 ## Foundry
 
