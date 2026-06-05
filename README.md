@@ -221,7 +221,7 @@ Here are the most common use cases:
 8. ****Review transactions before approving:**** Always verify the recipient address, amount, and transaction data before confirming.
 9. ****Protect private keys:**** If an owner's private key is compromised, an attacker may be able to approve transactions on their behalf.
 10. ****Owner availability Risk:****  The wallet requires multiple approvals before execution.
-11. ****Loss of Required Owners:**** If enough owners lose their private keys, the required confirmation threshold may never be reached.
+11. ****Loss of Required Owners:**** If enough owners lose their private keys, the required confirmation threshold may never be reached. Risk, Permanent loss of access to wallet funds.
 
 
 
