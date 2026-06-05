@@ -213,7 +213,7 @@ Here are the most common use cases:
 ## Security Consideration
 1. ****Multi-Signature Protection:**** This wallet requires multiple owner confirmations before a transaction can be executed. This reduces the risk of a single compromised private key leading to a loss of funds.
 2. ****Owner Selection:**** The security of the wallet depends heavily on the trustworthiness and security practices of the owners.
-3. ****Confirmation Threshold:**** Choose the confirmation threshold carefully: (i.) A low threshold increases convenience but reduces security.
+3. ****Confirmation Threshold:**** Choose the confirmation threshold carefully: (i.) A low threshold increases convenience but reduces security. (ii.) A high threshold improves security
 
 ## Foundry
 
