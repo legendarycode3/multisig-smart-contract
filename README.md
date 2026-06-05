@@ -215,7 +215,7 @@ Here are the most common use cases:
 2. ****Owner Selection:**** The security of the wallet depends heavily on the trustworthiness and security practices of the owners.
 3. ****Confirmation Threshold:**** Choose the confirmation threshold carefully: (i.) A low threshold increases convenience but reduces security. (ii.) A high threshold improves security but may make fund access difficult if owners become unavailable.
 4. ****External Call Risks:**** Transaction execution uses a low-level `call`, allowing interactions with arbitrary contracts. While the contract follows the Checks-Effects-Interactions pattern by updating state before external calls, owners should carefully review transaction targets and calldata before approving execution.
-5. ****Revocation Logic:**** Owners may revoke previously submitted confirmations before execution. Users should understand that a transaction
+5. ****Revocation Logic:**** Owners may revoke previously submitted confirmations before execution. Users should understand that a transaction that has reached the approval threshold may
 
 ## Foundry
 
