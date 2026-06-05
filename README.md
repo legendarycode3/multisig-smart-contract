@@ -222,7 +222,7 @@ Here are the most common use cases:
 9. ****Protect private keys:**** If an owner's private key is compromised, an attacker may be able to approve transactions on their behalf.
 10. ****Owner availability Risk:****  The wallet requires multiple approvals before execution.
 11. ****Loss of Required Owners:**** If enough owners lose their private keys, the required confirmation threshold may never be reached. Risk, Permanent loss of access to wallet funds.
-12. ****No Owner Management:**** The contract does not allow adding, removing, or replacing owners after deployment.
+12. ****No Owner Management:**** The contract does not allow adding, removing, or replacing owners after deployment. Risky if, Compromised, inactive, or lost owner accounts cannot be updated.
 
 
 
