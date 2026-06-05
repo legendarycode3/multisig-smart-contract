@@ -219,6 +219,7 @@ Here are the most common use cases:
 6. ****Smart Contract Audits:**** This implementation has not undergone a professional security audit unless explicitly stated. Independent audits and comprehensive testing are strongly recommended before securing significant amounts of value.
 7. ****Multiple approvals required:**** Transactions cannot be executed unless the required number of owners approve them.
 8. ****Review transactions before approving:**** Always verify the recipient address, amount, and transaction data before confirming.
+9. ****Protect private keys:****
 
 
 ## Foundry
