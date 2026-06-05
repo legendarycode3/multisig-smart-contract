@@ -210,6 +210,7 @@ Here are the most common use cases:
 * ****Protection for Protocol Admin Functions:**** Reduces protocol takeover risk. In decentralized finance (DeFi), admin privileges are dangerous if centralized. Multisig protects: "protocol upgrades" , "emergency pauses", "parameter changes", "treasury access".
 * ****Geographic & Device Distribution:**** Improves resilience against: "physical theft", "regional disasters", "targeted attacks".
 
+## Security Consideration
 
 ## Foundry
 
